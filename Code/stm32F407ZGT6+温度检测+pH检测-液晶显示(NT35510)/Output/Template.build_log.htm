@@ -1,0 +1,65 @@
+<html>
+<body>
+<pre>
+<h1>礦ision Build Log</h1>
+<h2>Tool Versions:</h2>
+IDE-Version: μVision V5.28.0.0
+Copyright (C) 2019 ARM Ltd and ARM Germany GmbH. All rights reserved.
+License Information: 1 Microsoft, Microsoft, LIC=76FZ9-48HTG-731M8-3A47U-IEFB9-EVHGT
+ 
+Tool Versions:
+Toolchain:       MDK-ARM Plus  Version: 5.28.0.0
+Toolchain Path:  D:\software\ARM\ARMCC\Bin
+C Compiler:      Armcc.exe V5.06 update 6 (build 750)
+Assembler:       Armasm.exe V5.06 update 6 (build 750)
+Linker/Locator:  ArmLink.exe V5.06 update 6 (build 750)
+Library Manager: ArmAr.exe V5.06 update 6 (build 750)
+Hex Converter:   FromElf.exe V5.06 update 6 (build 750)
+CPU DLL:         SARMCM3.DLL V5.28.0.0
+Dialog DLL:      DCM.DLL V1.17.3.0
+Target DLL:      CMSIS_AGDI.dll V1.31.18.0
+Dialog DLL:      TCM.DLL V1.36.2.0
+ 
+<h2>Project:</h2>
+E:\Personal Blog\Graduation-Design\Code\stm32F407ZGT6+温度检测+pH检测-液晶显示(NT35510)\Project\RVMDK（uv5）\BH-F407.uvprojx
+Project File Date:  04/22/2021
+
+<h2>Output:</h2>
+*** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\software\ARM\ARMCC\Bin'
+Build target 'LCD'
+compiling bsp_ds18b20.c...
+compiling main.c...
+..\..\User\main.c(100): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		ADC_ConvertedValueLocal =(float) ADC_ConvertedValue/4096*3.3; // 读取转换的AD值
+..\..\User\main.c(105): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		if(PH_Value<=0.0){PH_Value=0.0;}
+..\..\User\main.c(106): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+  		if(PH_Value>=14.0){PH_Value=14.0;}
+..\..\User\main.c(46): warning:  #177-D: variable "uc"  was declared but never referenced
+  	uint8_t uc, ucDs18b20Id [ 8 ];   //存放DS18B20序列号
+..\..\User\main.c(46): warning:  #177-D: variable "ucDs18b20Id"  was declared but never referenced
+  	uint8_t uc, ucDs18b20Id [ 8 ];   //存放DS18B20序列号
+..\..\User\main.c(47): warning:  #177-D: variable "DS18B20Id_str"  was declared but never referenced
+    uint8_t DS18B20Id_str[20];
+..\..\User\main.c: 6 warnings, 0 errors
+linking...
+Program Size: Code=14124 RO-data=6504 RW-data=56 ZI-data=2072  
+FromELF: creating hex file...
+"..\..\Output\Template.axf" - 0 Error(s), 6 Warning(s).
+
+<h2>Software Packages used:</h2>
+
+Package Vendor: Keil
+                http://www.keil.com/pack/Keil.STM32F4xx_DFP.2.7.0.pack
+                Keil.STM32F4xx_DFP.2.7.0
+                STMicroelectronics STM32F4 Series Device Support, Drivers and Examples
+
+<h2>Collection of Component include folders:</h2>
+  .\RTE\_LCD
+  D:\software\Keil\STM32F4xx_DFP\2.7.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include
+
+<h2>Collection of Component Files used:</h2>
+Build Time Elapsed:  00:00:04
+</pre>
+</body>
+</html>
