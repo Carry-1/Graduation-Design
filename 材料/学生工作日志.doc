@@ -1,0 +1,987 @@
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>Carry</o:Author><o:LastAuthor>Carry</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>1</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-11.1.0.10495</o:KSOProductBuildVer><o:ICV dt:dt="string" >A78EFE78BD6C42C6B4DC5004465A278B</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Arial";
+}
+
+@font-face{
+font-family:"黑体";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-noshow:yes;
+mso-style-parent:"";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:justify;
+text-justify:inter-ideograph;
+font-family:'Times New Roman';
+mso-fareast-font-family:宋体;
+font-size:10.5000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:'Times New Roman';
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.18{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.19{
+mso-style-name:"普通\(网站\) Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.20{
+mso-style-name:z-窗体底端;
+mso-style-next:正文;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-top:1.0000pt solid windowtext;
+mso-border-top-alt:0.7500pt solid windowtext;
+padding:1pt 0pt 0pt 0pt ;
+text-align:center;
+font-family:Arial;
+mso-fareast-font-family:宋体;
+mso-hansi-font-family:'Times New Roman';
+mso-bidi-font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+font-size:8.0000pt;
+}
+
+p.21{
+mso-style-name:z-窗体顶端;
+mso-style-next:正文;
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.7500pt solid windowtext;
+padding:0pt 0pt 1pt 0pt ;
+text-align:center;
+font-family:Arial;
+mso-fareast-font-family:宋体;
+mso-hansi-font-family:'Times New Roman';
+mso-bidi-font-family:'Times New Roman';
+display:none;
+mso-hide:all;
+font-size:8.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=21  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;display:none;
+mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >窗体顶端</font></span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:宋体;
+mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';display:none;
+mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span><img width="2"  height="2"  src="学生工作日志.files/学生工作日志118.png" ></span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:黑体;mso-hansi-font-family:宋体;
+mso-bidi-font-weight:bold;font-size:15.0000pt;mso-font-kerning:0.0000pt;" ><font face="黑体" >安徽建筑大学毕业设计（论文）学生工作日志</font></span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><table class=MsoNormalTable  border=1  cellspacing=0  style="border-collapse:collapse;width:358.8000pt;margin-left:10.6500pt;
+mso-table-layout-alt:fixed;border:none;mso-border-left-alt:0.5000pt solid windowtext;
+mso-border-top-alt:0.5000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;mso-border-bottom-alt:0.5000pt solid windowtext;
+mso-border-insideh:0.7500pt outset windowtext;mso-border-insidev:0.7500pt outset windowtext;mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;" ><tr style="height:30.6000pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >题目</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=489  valign=center  colspan=8  style="width:293.6500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >多参数水质监测系统研制 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:30.2500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >学生姓名</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=74  valign=center  colspan=2  style="width:44.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >夏庆生 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=58  valign=center  style="width:34.9000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >班级学号</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=188  valign=center  colspan=2  style="width:112.8000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >17通信②(17205040229) </font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=48  valign=center  style="width:29.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >专业</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=120  valign=center  colspan=2  style="width:72.4500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:1.0000pt solid windowtext;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;通信工程</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:30.6500pt;" ><td width=152  valign=center  colspan=2  style="width:91.7500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >指导教师姓名</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=115  valign=center  colspan=3  style="width:69.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >徐荃 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=212  valign=center  colspan=3  style="width:127.4000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >指导教师职称</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >讲师 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:31.4000pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >日 期</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工 &nbsp;&nbsp;作 &nbsp;&nbsp;日 &nbsp;&nbsp;志</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >指导老师意见</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-03-07 10:15:09</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:第一周我根据自己的毕业设计课题在中国知网上查阅了相关中英文文献，找到了几篇与我的研究题目相关的文献仔细阅读。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:仔细阅读中英文文献，并做记录和比较。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >通过第一周的学习，对本课题有了初步了解，希望通过查阅相关文献继续加深对课题的理解。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-03-14 10:16:24</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:第二周我主要是仔细阅读中英文文献，了解了课题研究背景、研究目的和研究意义，以及一个水质参数检测系统的硬件组成部分和需要使用到的器件的型号。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:对已经细读过得文献进行比较，筛选出一篇外文文献自己作为主要参考的文献。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >通过第二周的学习，对本课题有了进一步的了解，希望继续通过查阅资料尽快确定课题设计方案。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-03-21 10:16:44</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:第三周对第二周已经阅读过的各篇文献做比较，并记录，筛选出了一篇参考价值最大的外文文献，准备翻译。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:了解研究课题的背景、意义和目的，熟悉水质检测中的各项参数及指标，熟悉水质检测系统的硬件组成，并撰写开题报告。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下一步可以着手翻译英文文献和撰写开题报告了！ </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-03-28 10:17:26</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:第四周主要是撰写开题报告：我综合查阅中英文文献，仔细了解了研究课题的背景、目的和意义，以及水质检测系统的组成部分，绘制硬件系统框图，查阅了多种器件手册，基本确定了检测系统使用的器件种类和型号，并分析了检测系统实现的可行性。同时学习如何在keil软件上编写水质检测系统中需要使用到的单片机中的GPIO口的驱动程序。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:查阅多方资料，选择一篇与我的研究课题关联度最大的外文文献进行翻译。并继续学习如何在keil软件上开发水质检测系统中需要使用到的单片机上的USART串口的驱动程序。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >针对开题报告中存在的问题进行修改 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-04-04 10:17:35</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:对选定的一篇外文文献进行翻译，并修改开题报告，完善了水质检测系统的硬件框图部分，查阅了相关器件的英文数据手册，对器件(如温度传感器DS18B20、控制芯片STM32F407)的组成部分及各项参数有了更深入的了解。学习如何在keil软件上编写水质检测系统中需要用到的I2C外设、SPI外设的驱动程序。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:修改开题报告，继续进行文献翻译。学习如何在keil软件上编写水质检测系统中需要用到的FSMC外设(用于控制液晶显示屏)的驱动程序。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >继续修改开题报告中的问题，英文文献的格式参照学校毕业设计论文的格式执行。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-04-11 10:14:20</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:本周继续修改开题报告和文献翻译，并学习在keil软件上编写水质检测系统中需要用到的液晶显示屏控制芯片NT35510的驱动程序。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:学习如何在keil软件上编写水质检测系统中需要用到的定时器的驱动程序。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >根据系统设计方案，要尽快选定并购买关键元器件。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-04-15 08:56:13</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:根据系统设计方案，查阅资料，确定了要购买和使用的器件型号：野火生产的霸天虎开发板(STMF407)和4.3寸液晶显示屏(液晶控制器为NT35510)，维可思的温度传感器、PH传感器、浑浊度传感器。并已经购买了开发板、显示屏以及温度传感器，开始在keil软件上开发温度传感器的驱动程序。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:设计并完善温度传感器的驱动程序，设计4.3寸液晶显示屏的液晶控制器NT35510的驱动程序并实时显示测量的温度。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >一定要认真研读选定的相关元器件的器件资料或使用手册，从而为后期的电路设计和程序编写作准备。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-04-18 09:04:20</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:参考野火教学视频和数据手册以及相关例程源码，编写出了温度传感器DS18B20的驱动程序，以及液晶控制器NT35510的驱动程序，成功实现了实时检测并显示温度。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:回顾温度传感器以及液晶控制器驱动程序的设计编写过程，修改完善源代码框架，添加注释，并以技术博客形式记录实现过程。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >要根据系统设计方案，合理规划各功能模块并完成相应程序的编写。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-04-22 08:23:40</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:准备编写pH检测模块的驱动程序。查找文献，了解到pH检测过程中需要用到ADC和DMA传送方式,因为pH探头输出的是模拟信号，需要用ADC将其转换成数字信号，再通过DMA将数据传送给单片机。为此，本周主要是学习在keil软件上如何开发ADC外设相关的源代码。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:下阶段完成ADC源代码编写的学习，并学习编写DMA传送相关的程序。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >继续完成各功能模块的程序设计。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-04-25 17:07:54</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:学习了如何通过DMA传输方式将ADC转换之后的数据直接传输到单片机内存(SRAM)中，主要学习如何在keil软件上如何配置DMA的初始化结构体以及传输模式。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:已经完成了pH检测模块源代码设计的基础知识储备，接下来完成pH检测以及通过液晶显示屏显示实时检测数据的源代码设计。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >继续完成其他功能模块的程序编写。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-04-29 09:42:48</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:这一周的主要工作是编写电导率和浑浊度传感器模块驱动程序；由于PH、电导率、浑浊度传感器模块都是采用AD转换再通过DMA传输将采集到的数据发送到开发板中。而之前我设计的PH传感器模块使用的ADC是独立模式下的单通道采集方式，再加入电导率和浑浊度检测时，需要将ADC驱动程序修改为独立模式下的多通道采集方式，否则会发生数据冲突。因此这周需要先学习如果编写ADC使用独立模式下的多通道采集方式的驱动程序。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:学习如何编写ADC使用独立模式下的多通道采集方式的驱动程序。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >继续完善和编写系统程序。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-02 09:45:33</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:前面几天我学习了如果将ADC的驱动程序由独立模式下的单通道采集方式修改为独立模式下的多通道采集方式。因此这两天我开始了编写电导率和浑浊度传感器模块的驱动程序。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:整合温度传感器、PH传感器、电导率传感器和浑浊度传感器检测模块驱动程序的源代码。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >尽快完成系统程序的编写。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-06 09:07:02</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:本周编写浑浊度传感器模块和电导率传感器模块驱动程序，由于开发板上只有2个5V电源输出口，而我有三个传感器模块都需要5V电压供电，所以又额外购买了电源模块。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:完善源程序，添加注释。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >针对程序中存在的问题，继续修改、完善和优化。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-09 09:12:45</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:编写好电导率传感器和浑浊度传感器模块以后，我已经完成了所有源程序的编写，接下来调试程序，并且由于我现在使用的开发板是野火的F407霸天虎开发板，板子上面集成了许多本次毕设没有使用到的芯片，所以我打算重新购买一个最小系统板，上面只有F407芯片和复位、晶振、电源、串口以及显示屏转接口，这些是本次毕设必备的模块。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:购买STM32F407ZGT6，并准备移植程序。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >软件程序设计完成后，就可以着手准备焊接电路了。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-13 09:15:38</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:收到STM32F407最小系统板以后，我就着手准备移植程序，移植时由于只有显示屏引脚不同，所以只要修改显示屏模块的硬件连接和源程序即可。但是移植过程中还是把最小系统板的芯片给烧掉了。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:完成实物制作之后，接下来就开始撰写毕业论文。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >可以着手准备撰写毕业论文了。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-16 21:52:06</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:购买最小系统板之后，我就着手进行程序移植，移植时仅要修改显示模块的引脚和程序，但由于接线错误导致最小系统板被烧掉了。接下来准备撰写论文。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:按照老师给的论文模板，仔细阅读，准备撰写论文。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >按照要求，尽快完成毕业论文初稿的撰写。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-20 22:13:29</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:本周开始，主要任务为撰写毕业论文，参考老师上传的论文模板，确定目录及论文结构。确定论文写作时间安排表，并开始撰写硬件电路这一章。下载AD软件，对照器件手册绘制电路原理图。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:撰写完硬件电路这一章后，准备撰写软件设计这一章节。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >硬件电路设计和软件程序设计是论文的重点内容，一定要认真撰写。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-23 22:16:42</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:软件设计这一章节，对照自己编写的驱动程序源代码，绘制程序流程图，并对照每个外设的介绍，重新捋一遍代码编写思路。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:编写完软件设计这一章节后，开始撰写绪论及系统制作与调试这一章节。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >要加快毕业设计论文撰写的进度，以免影响论文查重。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-27 22:22:49</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:撰写绪论这一章节时，参考开题报告进行撰写。撰写系统制作与调试这一章节时，重新对温度、PH、电导率和浑浊度四个传感器模块各做了几次测量实验，并对测量结果拍照。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:下一阶段主要是撰写摘要、总结与展望和致谢。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >按照要求，继续完善、修改毕业论文。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-05-30 22:55:11</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:接下来撰写论文摘要、总结与展望和致谢部分。在撰写总结与展望时，不仅总结了本次毕设所设计的水质检测系统的功能和优势，还介绍了本系统有什么可改进之处。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:接下来对论文内容和格式先做初步的修改，再用paperYY进行查重。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >论文格式要参照学校要求执行。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-06-03 10:06:40</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:本周主要在撰写毕业论文，并修改论文内容和格式，调整图片格式以及查重。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:继续修改论文内容和格式。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >论文的重复率、格式、质量等都要满足要求，请务必认真修改，不能松懈。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr style="height:63.1500pt;" ><td width=108  valign=center  style="width:65.1500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:1.0000pt solid windowtext;
+mso-border-left-alt:0.5000pt solid windowtext;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  align=center  style="mso-pagination:widow-orphan;text-align:center;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >2021-06-06 10:07:48</font></span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=372  valign=center  colspan=7  style="width:223.5500pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >工作完成情况:这几天继续在修改论文内容和格式，并制作毕设答辩ppt和拍摄实物展示视频，以及查重。</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >下阶段工作内容:整理毕设工作，准备答辩。 </span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td width=116  valign=center  style="width:70.1000pt;padding:0.0000pt 5.4000pt 0.0000pt 5.4000pt ;border-left:none;
+mso-border-left-alt:none;border-right:1.0000pt solid windowtext;mso-border-right-alt:0.5000pt solid windowtext;
+border-top:none;mso-border-top-alt:0.5000pt solid windowtext;border-bottom:1.0000pt solid windowtext;
+mso-border-bottom-alt:0.5000pt solid windowtext;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;mso-bidi-font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >可以着手制答辩PPT了，制作的PPT只要能展示自己已完成的工作和已取得的成果即可，内容不要过多。 &nbsp;</span><span style="font-family:'Times New Roman';mso-fareast-font-family:宋体;font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=MsoNormal  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:'Times New Roman';mso-fareast-font-family:宋体;
+font-size:10.5000pt;mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:14.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >指导老师签名：</font></span></b><img width="125"  height="63"  src="学生工作日志.files/学生工作日志4554.png" ><span style="mso-spacerun:'yes';font-family:宋体;mso-ascii-font-family:'Times New Roman';
+mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';font-size:10.5000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=20  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;display:none;
+mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >窗体底端</font></span><span style="mso-spacerun:'yes';font-family:Arial;mso-fareast-font-family:宋体;
+mso-hansi-font-family:'Times New Roman';mso-bidi-font-family:'Times New Roman';display:none;
+mso-hide:all;font-size:8.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>

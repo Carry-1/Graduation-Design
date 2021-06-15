@@ -26,8 +26,7 @@
 #define RES2 820.0   //运放电阻，与硬件电路有关
 #define ECREF 200.0 //极片输入电压，与硬件电路相关
 
-GPIO_InitTypeDef  GPIO_InitStructure; 
-unsigned char AD_CHANNEL=0;
+
 float EC_voltage;
 float EC_value=0.0,voltage_value;
 float temp_data=250;

@@ -46,6 +46,7 @@ float ADC_ConvertedValueLocal;
  * 返回值 : 无
  **************************************************************************/
  
+ //配置1602的GPIO引脚
 void GPIO_Configuration(void)
 {
 	GPIO_InitTypeDef GPIO_InitStructure;

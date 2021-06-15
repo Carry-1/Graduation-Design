@@ -27,13 +27,12 @@ Project File Date:  04/22/2021
 <h2>Output:</h2>
 *** Using Compiler 'V5.06 update 6 (build 750)', folder: 'D:\software\ARM\ARMCC\Bin'
 Build target 'LCD'
-compiling bsp_ds18b20.c...
 compiling main.c...
-..\..\User\main.c(100): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\..\User\main.c(99): warning:  #1035-D: single-precision operand implicitly converted to double-precision
   		ADC_ConvertedValueLocal =(float) ADC_ConvertedValue/4096*3.3; // 读取转换的AD值
-..\..\User\main.c(105): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\..\User\main.c(104): warning:  #1035-D: single-precision operand implicitly converted to double-precision
   		if(PH_Value<=0.0){PH_Value=0.0;}
-..\..\User\main.c(106): warning:  #1035-D: single-precision operand implicitly converted to double-precision
+..\..\User\main.c(105): warning:  #1035-D: single-precision operand implicitly converted to double-precision
   		if(PH_Value>=14.0){PH_Value=14.0;}
 ..\..\User\main.c(46): warning:  #177-D: variable "uc"  was declared but never referenced
   	uint8_t uc, ucDs18b20Id [ 8 ];   //存放DS18B20序列号
@@ -42,6 +41,7 @@ compiling main.c...
 ..\..\User\main.c(47): warning:  #177-D: variable "DS18B20Id_str"  was declared but never referenced
     uint8_t DS18B20Id_str[20];
 ..\..\User\main.c: 6 warnings, 0 errors
+compiling bsp_ds18b20.c...
 linking...
 Program Size: Code=14124 RO-data=6504 RW-data=56 ZI-data=2072  
 FromELF: creating hex file...

@@ -534,11 +534,11 @@ Image Symbol Table
     .data                                    0x20000014   Section       20  stm32f10x_rcc.o(.data)
     APBAHBPrescTable                         0x20000014   Data          16  stm32f10x_rcc.o(.data)
     ADCPrescTable                            0x20000024   Data           4  stm32f10x_rcc.o(.data)
-    .data                                    0x20000028   Section       56  main.o(.data)
-    .data                                    0x20000060   Section        2  bsp_adc.o(.data)
-    .data                                    0x20000064   Section        4  stdout.o(.data)
-    .bss                                     0x20000068   Section       20  main.o(.bss)
-    STACK                                    0x20000080   Section     1024  startup_stm32f10x_md.o(STACK)
+    .data                                    0x20000028   Section       48  main.o(.data)
+    .data                                    0x20000058   Section        2  bsp_adc.o(.data)
+    .data                                    0x2000005c   Section        4  stdout.o(.data)
+    .bss                                     0x20000060   Section       20  main.o(.bss)
+    STACK                                    0x20000078   Section     1024  startup_stm32f10x_md.o(STACK)
 
     Global Symbols
 
@@ -851,24 +851,22 @@ Image Symbol Table
     Region$$Table$$Limit                     0x08002704   Number         0  anon$$obj.o(Region$$Table)
     SystemCoreClock                          0x20000000   Data           4  system_stm32f10x.o(.data)
     AHBPrescTable                            0x20000004   Data          16  system_stm32f10x.o(.data)
-    GPIO_InitStructure                       0x20000028   Data           4  main.o(.data)
-    AD_CHANNEL                               0x2000002c   Data           1  main.o(.data)
-    EC_voltage                               0x20000030   Data           4  main.o(.data)
-    EC_value                                 0x20000034   Data           4  main.o(.data)
-    voltage_value                            0x20000038   Data           4  main.o(.data)
-    temp_data                                0x2000003c   Data           4  main.o(.data)
-    compensationCoefficient                  0x20000040   Data           4  main.o(.data)
-    compensationVolatge                      0x20000044   Data           4  main.o(.data)
-    kValue                                   0x20000048   Data           4  main.o(.data)
-    kValue_Low                               0x2000004c   Data           4  main.o(.data)
-    kValue_High                              0x20000050   Data           4  main.o(.data)
-    rawEC                                    0x20000054   Data           4  main.o(.data)
-    EC_valueTemp                             0x20000058   Data           4  main.o(.data)
-    ADC_ConvertedValueLocal                  0x2000005c   Data           4  main.o(.data)
-    ADC_ConvertedValue                       0x20000060   Data           2  bsp_adc.o(.data)
-    __stdout                                 0x20000064   Data           4  stdout.o(.data)
-    Tx                                       0x20000068   Data          20  main.o(.bss)
-    __initial_sp                             0x20000480   Data           0  startup_stm32f10x_md.o(STACK)
+    EC_voltage                               0x20000028   Data           4  main.o(.data)
+    EC_value                                 0x2000002c   Data           4  main.o(.data)
+    voltage_value                            0x20000030   Data           4  main.o(.data)
+    temp_data                                0x20000034   Data           4  main.o(.data)
+    compensationCoefficient                  0x20000038   Data           4  main.o(.data)
+    compensationVolatge                      0x2000003c   Data           4  main.o(.data)
+    kValue                                   0x20000040   Data           4  main.o(.data)
+    kValue_Low                               0x20000044   Data           4  main.o(.data)
+    kValue_High                              0x20000048   Data           4  main.o(.data)
+    rawEC                                    0x2000004c   Data           4  main.o(.data)
+    EC_valueTemp                             0x20000050   Data           4  main.o(.data)
+    ADC_ConvertedValueLocal                  0x20000054   Data           4  main.o(.data)
+    ADC_ConvertedValue                       0x20000058   Data           2  bsp_adc.o(.data)
+    __stdout                                 0x2000005c   Data           4  stdout.o(.data)
+    Tx                                       0x20000060   Data          20  main.o(.bss)
+    __initial_sp                             0x20000478   Data           0  startup_stm32f10x_md.o(STACK)
 
 
 
@@ -878,22 +876,22 @@ Memory Map of the image
 
   Image Entry point : 0x080000ed
 
-  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x0000276c, Max: 0x00010000, ABSOLUTE)
+  Load Region LR_IROM1 (Base: 0x08000000, Size: 0x00002764, Max: 0x00010000, ABSOLUTE)
 
     Execution Region ER_IROM1 (Exec base: 0x08000000, Load base: 0x08000000, Size: 0x00002704, Max: 0x00010000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
     0x08000000   0x08000000   0x000000ec   Data   RO            3    RESET               startup_stm32f10x_md.o
-    0x080000ec   0x080000ec   0x00000000   Code   RO          530  * .ARM.Collect$$$$00000000  mc_w.l(entry.o)
-    0x080000ec   0x080000ec   0x00000004   Code   RO          822    .ARM.Collect$$$$00000001  mc_w.l(entry2.o)
-    0x080000f0   0x080000f0   0x00000004   Code   RO          825    .ARM.Collect$$$$00000004  mc_w.l(entry5.o)
-    0x080000f4   0x080000f4   0x00000000   Code   RO          827    .ARM.Collect$$$$00000008  mc_w.l(entry7b.o)
-    0x080000f4   0x080000f4   0x00000000   Code   RO          829    .ARM.Collect$$$$0000000A  mc_w.l(entry8b.o)
-    0x080000f4   0x080000f4   0x00000008   Code   RO          830    .ARM.Collect$$$$0000000B  mc_w.l(entry9a.o)
-    0x080000fc   0x080000fc   0x00000000   Code   RO          832    .ARM.Collect$$$$0000000D  mc_w.l(entry10a.o)
-    0x080000fc   0x080000fc   0x00000000   Code   RO          834    .ARM.Collect$$$$0000000F  mc_w.l(entry11a.o)
-    0x080000fc   0x080000fc   0x00000004   Code   RO          823    .ARM.Collect$$$$00002712  mc_w.l(entry2.o)
+    0x080000ec   0x080000ec   0x00000000   Code   RO          574  * .ARM.Collect$$$$00000000  mc_w.l(entry.o)
+    0x080000ec   0x080000ec   0x00000004   Code   RO          866    .ARM.Collect$$$$00000001  mc_w.l(entry2.o)
+    0x080000f0   0x080000f0   0x00000004   Code   RO          869    .ARM.Collect$$$$00000004  mc_w.l(entry5.o)
+    0x080000f4   0x080000f4   0x00000000   Code   RO          871    .ARM.Collect$$$$00000008  mc_w.l(entry7b.o)
+    0x080000f4   0x080000f4   0x00000000   Code   RO          873    .ARM.Collect$$$$0000000A  mc_w.l(entry8b.o)
+    0x080000f4   0x080000f4   0x00000008   Code   RO          874    .ARM.Collect$$$$0000000B  mc_w.l(entry9a.o)
+    0x080000fc   0x080000fc   0x00000000   Code   RO          876    .ARM.Collect$$$$0000000D  mc_w.l(entry10a.o)
+    0x080000fc   0x080000fc   0x00000000   Code   RO          878    .ARM.Collect$$$$0000000F  mc_w.l(entry11a.o)
+    0x080000fc   0x080000fc   0x00000004   Code   RO          867    .ARM.Collect$$$$00002712  mc_w.l(entry2.o)
     0x08000100   0x08000100   0x00000024   Code   RO            4    .text               startup_stm32f10x_md.o
     0x08000124   0x08000124   0x000001e0   Code   RO           24    .text               system_stm32f10x.o
     0x08000304   0x08000304   0x0000044e   Code   RO           86    .text               stm32f10x_adc.o
@@ -903,55 +901,55 @@ Memory Map of the image
     0x08000d04   0x08000d04   0x000003a4   Code   RO          302    .text               stm32f10x_rcc.o
     0x080010a8   0x080010a8   0x00000408   Code   RO          376    .text               stm32f10x_usart.o
     0x080014b0   0x080014b0   0x000003ac   Code   RO          403    .text               main.o
-    0x0800185c   0x0800185c   0x000000b4   Code   RO          446    .text               bsp_usart1.o
-    0x08001910   0x08001910   0x00000048   Code   RO          458    .text               stm32f10x_it.o
-    0x08001958   0x08001958   0x00000044   Code   RO          476    .text               delay.o
-    0x0800199c   0x0800199c   0x000001d4   Code   RO          491    .text               driver_1602.o
-    0x08001b70   0x08001b70   0x00000120   Code   RO          503    .text               bsp_adc.o
-    0x08001c90   0x08001c90   0x0000025c   Code   RO          518    .text               ds18b20.o
-    0x08001eec   0x08001eec   0x00000064   Code   RO          794    .text               mf_w.l(fmul.o)
-    0x08001f50   0x08001f50   0x0000007c   Code   RO          796    .text               mf_w.l(fdiv.o)
-    0x08001fcc   0x08001fcc   0x0000014e   Code   RO          798    .text               mf_w.l(dadd.o)
-    0x0800211a   0x0800211a   0x000000e4   Code   RO          800    .text               mf_w.l(dmul.o)
-    0x080021fe   0x080021fe   0x000000de   Code   RO          802    .text               mf_w.l(ddiv.o)
-    0x080022dc   0x080022dc   0x0000000a   Code   RO          804    .text               mf_w.l(ffltui.o)
-    0x080022e6   0x080022e6   0x00000022   Code   RO          806    .text               mf_w.l(dflti.o)
-    0x08002308   0x08002308   0x00000032   Code   RO          808    .text               mf_w.l(ffixi.o)
-    0x0800233a   0x0800233a   0x00000026   Code   RO          810    .text               mf_w.l(f2d.o)
-    0x08002360   0x08002360   0x00000030   Code   RO          812    .text               mf_w.l(cdcmple.o)
-    0x08002390   0x08002390   0x00000030   Code   RO          814    .text               mf_w.l(cdrcmple.o)
-    0x080023c0   0x080023c0   0x00000038   Code   RO          816    .text               mf_w.l(d2f.o)
-    0x080023f8   0x080023f8   0x00000014   Code   RO          818    .text               mf_w.l(cfcmple.o)
-    0x0800240c   0x0800240c   0x00000014   Code   RO          820    .text               mf_w.l(cfrcmple.o)
-    0x08002420   0x08002420   0x0000001e   Code   RO          841    .text               mc_w.l(llshl.o)
-    0x0800243e   0x0800243e   0x00000024   Code   RO          843    .text               mc_w.l(llsshr.o)
-    0x08002462   0x08002462   0x00000000   Code   RO          845    .text               mc_w.l(iusefp.o)
-    0x08002462   0x08002462   0x0000006e   Code   RO          846    .text               mf_w.l(fepilogue.o)
-    0x080024d0   0x080024d0   0x000000ba   Code   RO          848    .text               mf_w.l(depilogue.o)
+    0x0800185c   0x0800185c   0x000000b4   Code   RO          478    .text               bsp_usart1.o
+    0x08001910   0x08001910   0x00000048   Code   RO          493    .text               stm32f10x_it.o
+    0x08001958   0x08001958   0x00000044   Code   RO          511    .text               delay.o
+    0x0800199c   0x0800199c   0x000001d4   Code   RO          526    .text               driver_1602.o
+    0x08001b70   0x08001b70   0x00000120   Code   RO          541    .text               bsp_adc.o
+    0x08001c90   0x08001c90   0x0000025c   Code   RO          559    .text               ds18b20.o
+    0x08001eec   0x08001eec   0x00000064   Code   RO          838    .text               mf_w.l(fmul.o)
+    0x08001f50   0x08001f50   0x0000007c   Code   RO          840    .text               mf_w.l(fdiv.o)
+    0x08001fcc   0x08001fcc   0x0000014e   Code   RO          842    .text               mf_w.l(dadd.o)
+    0x0800211a   0x0800211a   0x000000e4   Code   RO          844    .text               mf_w.l(dmul.o)
+    0x080021fe   0x080021fe   0x000000de   Code   RO          846    .text               mf_w.l(ddiv.o)
+    0x080022dc   0x080022dc   0x0000000a   Code   RO          848    .text               mf_w.l(ffltui.o)
+    0x080022e6   0x080022e6   0x00000022   Code   RO          850    .text               mf_w.l(dflti.o)
+    0x08002308   0x08002308   0x00000032   Code   RO          852    .text               mf_w.l(ffixi.o)
+    0x0800233a   0x0800233a   0x00000026   Code   RO          854    .text               mf_w.l(f2d.o)
+    0x08002360   0x08002360   0x00000030   Code   RO          856    .text               mf_w.l(cdcmple.o)
+    0x08002390   0x08002390   0x00000030   Code   RO          858    .text               mf_w.l(cdrcmple.o)
+    0x080023c0   0x080023c0   0x00000038   Code   RO          860    .text               mf_w.l(d2f.o)
+    0x080023f8   0x080023f8   0x00000014   Code   RO          862    .text               mf_w.l(cfcmple.o)
+    0x0800240c   0x0800240c   0x00000014   Code   RO          864    .text               mf_w.l(cfrcmple.o)
+    0x08002420   0x08002420   0x0000001e   Code   RO          885    .text               mc_w.l(llshl.o)
+    0x0800243e   0x0800243e   0x00000024   Code   RO          887    .text               mc_w.l(llsshr.o)
+    0x08002462   0x08002462   0x00000000   Code   RO          889    .text               mc_w.l(iusefp.o)
+    0x08002462   0x08002462   0x0000006e   Code   RO          890    .text               mf_w.l(fepilogue.o)
+    0x080024d0   0x080024d0   0x000000ba   Code   RO          892    .text               mf_w.l(depilogue.o)
     0x0800258a   0x0800258a   0x00000002   PAD
-    0x0800258c   0x0800258c   0x00000024   Code   RO          852    .text               mc_w.l(init.o)
-    0x080025b0   0x080025b0   0x00000020   Code   RO          854    .text               mc_w.l(llushr.o)
-    0x080025d0   0x080025d0   0x00000020   Code   RO          600    i.__0printf$2       mc_w.l(printf2.o)
-    0x080025f0   0x080025f0   0x0000000e   Code   RO          858    i.__scatterload_copy  mc_w.l(handlers.o)
-    0x080025fe   0x080025fe   0x00000002   Code   RO          859    i.__scatterload_null  mc_w.l(handlers.o)
-    0x08002600   0x08002600   0x0000000e   Code   RO          860    i.__scatterload_zeroinit  mc_w.l(handlers.o)
-    0x0800260e   0x0800260e   0x000000d6   Code   RO          607    i._printf_core      mc_w.l(printf2.o)
-    0x080026e4   0x080026e4   0x00000020   Data   RO          856    Region$$Table       anon$$obj.o
+    0x0800258c   0x0800258c   0x00000024   Code   RO          896    .text               mc_w.l(init.o)
+    0x080025b0   0x080025b0   0x00000020   Code   RO          898    .text               mc_w.l(llushr.o)
+    0x080025d0   0x080025d0   0x00000020   Code   RO          644    i.__0printf$2       mc_w.l(printf2.o)
+    0x080025f0   0x080025f0   0x0000000e   Code   RO          902    i.__scatterload_copy  mc_w.l(handlers.o)
+    0x080025fe   0x080025fe   0x00000002   Code   RO          903    i.__scatterload_null  mc_w.l(handlers.o)
+    0x08002600   0x08002600   0x0000000e   Code   RO          904    i.__scatterload_zeroinit  mc_w.l(handlers.o)
+    0x0800260e   0x0800260e   0x000000d6   Code   RO          651    i._printf_core      mc_w.l(printf2.o)
+    0x080026e4   0x080026e4   0x00000020   Data   RO          900    Region$$Table       anon$$obj.o
 
 
-    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x08002704, Size: 0x00000480, Max: 0x00005000, ABSOLUTE)
+    Execution Region RW_IRAM1 (Exec base: 0x20000000, Load base: 0x08002704, Size: 0x00000478, Max: 0x00005000, ABSOLUTE)
 
     Exec Addr    Load Addr    Size         Type   Attr      Idx    E Section Name        Object
 
     0x20000000   0x08002704   0x00000014   Data   RW           25    .data               system_stm32f10x.o
     0x20000014   0x08002718   0x00000014   Data   RW          303    .data               stm32f10x_rcc.o
-    0x20000028   0x0800272c   0x00000038   Data   RW          405    .data               main.o
-    0x20000060   0x08002764   0x00000002   Data   RW          504    .data               bsp_adc.o
-    0x20000062   0x08002766   0x00000002   PAD
-    0x20000064   0x08002768   0x00000004   Data   RW          836    .data               mc_w.l(stdout.o)
-    0x20000068        -       0x00000014   Zero   RW          404    .bss                main.o
-    0x2000007c   0x0800276c   0x00000004   PAD
-    0x20000080        -       0x00000400   Zero   RW            1    STACK               startup_stm32f10x_md.o
+    0x20000028   0x0800272c   0x00000030   Data   RW          405    .data               main.o
+    0x20000058   0x0800275c   0x00000002   Data   RW          542    .data               bsp_adc.o
+    0x2000005a   0x0800275e   0x00000002   PAD
+    0x2000005c   0x08002760   0x00000004   Data   RW          880    .data               mc_w.l(stdout.o)
+    0x20000060        -       0x00000014   Zero   RW          404    .bss                main.o
+    0x20000074   0x08002764   0x00000004   PAD
+    0x20000078        -       0x00000400   Zero   RW            1    STACK               startup_stm32f10x_md.o
 
 
 ==============================================================================
@@ -967,7 +965,7 @@ Image component sizes
         68          0          0          0          0        764   delay.o
        468          8          0          0          0       2613   driver_1602.o
        604         14          0          0          0       2547   ds18b20.o
-       940        124          0         56         20       4141   main.o
+       940        124          0         48         20      12559   main.o
         36          8        236          0       1024        952   startup_stm32f10x_md.o
       1102         26          0          0          0      11289   stm32f10x_adc.o
        596          8          0          0          0       4614   stm32f10x_dma.o
@@ -978,7 +976,7 @@ Image component sizes
        480         38          0         20          0     246767   system_stm32f10x.o
 
     ----------------------------------------------------------------------
-      7660        358        268        100       1048     306863   Object Totals
+      7660        358        268         92       1048     315281   Object Totals
          0          0         32          0          0          0   (incl. Generated)
          2          0          0          2          4          0   (incl. Padding)
 
@@ -1040,15 +1038,15 @@ Image component sizes
 
       Code (inc. data)   RO Data    RW Data    ZI Data      Debug   
 
-      9720        384        268        104       1048     306823   Grand Totals
-      9720        384        268        104       1048     306823   ELF Image Totals
-      9720        384        268        104          0          0   ROM Totals
+      9720        384        268         96       1048     315241   Grand Totals
+      9720        384        268         96       1048     315241   ELF Image Totals
+      9720        384        268         96          0          0   ROM Totals
 
 ==============================================================================
 
     Total RO  Size (Code + RO Data)                 9988 (   9.75kB)
-    Total RW  Size (RW Data + ZI Data)              1152 (   1.13kB)
-    Total ROM Size (Code + RO Data + RW Data)      10092 (   9.86kB)
+    Total RW  Size (RW Data + ZI Data)              1144 (   1.12kB)
+    Total ROM Size (Code + RO Data + RW Data)      10084 (   9.85kB)
 
 ==============================================================================
 
