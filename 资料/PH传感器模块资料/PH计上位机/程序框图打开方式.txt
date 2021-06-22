@@ -1,2 +1,0 @@
-安装Labview VISA CH340驱动后可连接硬件进行监控
-CTRL+E 打开程序框图
